@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: #4ac1f7;
+    display: flex;
+    justify-content: center;
+}
+
+.mylogo{
+    height: 300px;
+    width: auto;
+}
+
+body{
+    background-color: #f5dd5d;
+}
+
+.nav{
+    justify-content: space-between;
+    display: flex;
+    text-decoration: none;
+    padding: 3rem 15rem;
+
+
+}
+
+
